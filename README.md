@@ -1,0 +1,1 @@
+# Schinchan-quote-generator
